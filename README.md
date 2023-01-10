@@ -12,5 +12,3 @@ Rating pada setiap atribut sebelumnya harus sudah melalui proses normalisasi. Me
 ![image](https://user-images.githubusercontent.com/93990340/211514748-6d8b2d9c-3fe2-4381-99da-4da507ff758a.png)
 ![image](https://user-images.githubusercontent.com/93990340/211514775-ab509213-34c4-49d8-88c3-a32a5905f60a.png)
 
-Contact Me : 
-ig : @mickoandrnn
